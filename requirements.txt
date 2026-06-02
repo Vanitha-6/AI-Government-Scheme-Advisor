@@ -1,0 +1,10 @@
+streamlit
+pandas
+numpy
+google-generativeai
+python-dotenv
+langchain
+langchain-community
+sentence-transformers
+huggingface-hub
+faiss-cpu
